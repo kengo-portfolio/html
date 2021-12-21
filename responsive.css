@@ -193,5 +193,13 @@
     opacity: 1;
     transform: rotate(0); 
   }
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+    opacity: 0.01;
+    animation: load 2.0s 0.3s ease-out forwards;
+    margin-top: 0px;
+    background: url("earth.jpg") no-repeat;
+    background-size: cover;
   
 }
