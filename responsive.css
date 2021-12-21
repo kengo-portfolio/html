@@ -193,6 +193,7 @@
     opacity: 1;
     transform: rotate(0); 
   }
+    .container-video {
     position: relative;
     height: 600px;
     overflow: hidden;
@@ -201,5 +202,6 @@
     margin-top: 0px;
     background: url("earth.jpg") no-repeat;
     background-size: cover;
+  }
   
 }
