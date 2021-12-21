@@ -184,6 +184,8 @@ width /***/:auto;
     opacity: 0.01;
     animation: load 2.0s 0.3s ease-out forwards;
     margin-top: 0px;
+  background: url("../img/movie.jpg") no-repeat;
+    background-size: cover;
   }
   .container-video #video {
     position: absolute;
